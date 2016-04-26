@@ -1,7 +1,7 @@
 ------------------------------------------
 --  DBTeam DBTeam DBTeam DBTeam DBTeam ---
---  Welcome by @xxdamage               ---
--- multilanguage and fix by@Jarriz     ---
+--  Welcome by @kos_khahare_zendegi               ---
+-- multilanguage and fix by@kos_khahare_zendegi     ---
 ------------------------------------------
 function chat_new_user(msg)
    local name = msg.action.user.first_name:gsub('_', ' ')
