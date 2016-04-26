@@ -6,9 +6,9 @@
 --                                              --
 --------------------------------------------------
 --                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
---              @h3iran :D                      --
+--       Developers:  @kos_khahare_zendegi      --
+--     
+--                                              --
 --------------------------------------------------
 local function is_channel_disabled( receiver )
 	if not _config.disabled_channels then
