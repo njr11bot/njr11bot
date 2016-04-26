@@ -6,10 +6,10 @@
 --                                              --
 --------------------------------------------------
 --                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
+--       Developers: @kos_khahare_zendegi       --
+--     Support: @kos_khahare_zendegi           --
 --                                              --
---			Created by @Josepdal & @A7F			--
+--			Created by @kos_khahare_zendegi		--
 --												--
 --------------------------------------------------
 
